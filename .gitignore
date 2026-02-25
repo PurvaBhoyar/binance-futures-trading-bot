@@ -1,0 +1,13 @@
+# Security
+.env
+
+# Environments
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Logs
+# (Optional: If you want to submit your log file, don't add trading.log here)
