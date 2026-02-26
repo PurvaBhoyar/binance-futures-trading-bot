@@ -8,5 +8,5 @@ def get_binance_client():
     return Client(
         os.getenv("BINANCE_API_KEY"),
         os.getenv("BINANCE_API_SECRET"),
-        testnet=True  # THIS MUST BE TRUE
+        testnet=True  
     )
